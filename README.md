@@ -13,15 +13,15 @@ Our code is heavily borrowed from ReActNet (https://github.com/liuzechun/ReActNe
 
 We test our RBONN using the same ResNet-18 structure and training setttings as [ReActNet](https://github.com/liuzechun/ReActNet), and obtain 66.7% top-1 accuracy.
 
-| Methods | Top-1 acc | Quantized model link |Log|
-|:-------:|:---------:|:--------------------:|:---:|
-|ReActNet |  65.9     | [Model](https://github.com/liuzechun/ReActNet#models) |-|
-| ReCU    |  66.4     | [Model](https://github.com/z-hXu/ReCU)        |-|
-| RBONN    |  66.7     | [Model]()        |[Log]()|
+| Methods | Top-1 acc | Top-5 acc | Quantized model link |Log|
+|:-------:|:---------:|:---------:|:--------------------:|:---:|
+|ReActNet |  65.9     |  -     | [Model](https://github.com/liuzechun/ReActNet#models) |-|
+| ReCU    |  66.4     |  86.5     | [Model](https://github.com/z-hXu/ReCU)        |-|
+| RBONN    |  66.7     |  87.0     | [Model]()        |[Log]()|
 
 
 To verify the performance of our quantized models with ReActNet-like structure on ImageNet, please use the following command:
-
+```bash run.sh'''
 
 
 Other models will be open-sourced successively.
