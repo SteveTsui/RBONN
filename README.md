@@ -1,5 +1,5 @@
 # Recurrent Bilinear Optimization for Binary Neural Networks (RBONN)
-Pytorch implementation of RBONN in ECCV 2022.
+Pytorch implementation of our RBONN accepted by ECCV2022 as oral presentation.
 ## Tips
 
 Any problem, please contact the first author (Email: shengxu@buaa.edu.cn). 
