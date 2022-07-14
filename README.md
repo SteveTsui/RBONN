@@ -8,6 +8,7 @@ Our code is heavily borrowed from ReActNet (https://github.com/liuzechun/ReActNe
 ## Dependencies
 * Python 3.8
 * Pytorch 1.7.1
+* Torchvision 0.8.2
 
 ## RBONN with two-stage tranining
 
