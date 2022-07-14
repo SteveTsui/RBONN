@@ -15,8 +15,8 @@ We test our RBONN using the same ResNet-18 structure and training setttings as [
 
 | Methods | Top-1 acc | Top-5 acc | Quantized model link |Log|
 |:-------:|:---------:|:---------:|:--------------------:|:---:|
-|ReActNet |  65.9     |  -     | [Model](https://github.com/liuzechun/ReActNet#models) |-|
-| ReCU    |  66.4     |  86.5     | [Model](https://github.com/z-hXu/ReCU)        |-|
+|[ReActNet](https://arxiv.org/abs/2003.03488) |  65.9     |  -     | [Model](https://github.com/liuzechun/ReActNet#models) |-|
+| [ReCU](https://arxiv.org/abs/2103.12369)    |  66.4     |  86.5     | [Model](https://github.com/z-hXu/ReCU)        |-|
 | RBONN    |  66.7     |  87.0     | [Model]()        |[Log]()|
 
 
