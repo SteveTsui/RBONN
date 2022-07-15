@@ -23,7 +23,7 @@ We test our RBONN using the same ResNet-18 structure and training setttings as [
 
 To verify the performance of our quantized models with ReActNet-like structure on ImageNet, please do as the following steps:
 1. Finish the first stage training using [ReActNet](https://github.com/liuzechun/ReActNet).
-2. use the following command
+2. Use the following command:
 ```bash 
 cd 2_step2_rbonn
 bash run.sh
