@@ -25,7 +25,7 @@ To verify the performance of our quantized models with ReActNet-like structure o
 1. Finish the first stage training using [ReActNet](https://github.com/liuzechun/ReActNet).
 2. Use the following command:
 ```bash 
-cd 2_step2_rbonn
+cd 2_step2_rbonn 
 bash run.sh
 ```
 
