@@ -1,4 +1,4 @@
-# Recurrent Bilinear Optimization for Binary Neural Networks (RBONN)
+# Recurrent Bilinear Optimization for Binary Neural Networks (RBONN) (https://arxiv.org/abs/2209.01542)
 Pytorch implementation of our RBONN accepted by ECCV2022 as oral presentation.
 ## Tips
 
