@@ -29,4 +29,15 @@ cd 2_step2_rbonn
 bash run.sh
 ```
 
+If you find this work useful in your research, please consider to cite:
+
+```
+@article{xu2022rbonn,
+  title={Recurrent Bilinear Optimization for Binary Neural Networks},
+  author={Xu, Sheng and Li, Yanjing and Wang, Tiancheng and Ma, Teli and Zhang, Baochang and Gao, Peng and Qiao, Yu and Lu, Jinhu and Guo, Guodong},
+  journal={arXiv preprint arXiv:2209.01542},
+  year={2022}
+}
+```
+
 Other models will be open-sourced successively.
