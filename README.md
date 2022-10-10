@@ -18,7 +18,7 @@ We test our RBONN using the same ResNet-18 structure and training setttings as [
 |:-------:|:---------:|:---------:|:--------------------:|:---:|
 |[ReActNet](https://arxiv.org/abs/2003.03488) |  65.9     |  -     | [Model](https://github.com/liuzechun/ReActNet#models) |-|
 | [ReCU](https://arxiv.org/abs/2103.12369)    |  66.4     |  86.5     | [Model](https://github.com/z-hXu/ReCU)        |-|
-| RBONN    |  66.7     |  87.0     | [Model](https://drive.google.com/drive/folders/1ZHRLyQ4ZkrhCPT2fITKq47ZLwSlMZWFx?usp=sharing)        |[Log](https://drive.google.com/drive/folders/1ZHRLyQ4ZkrhCPT2fITKq47ZLwSlMZWFx?usp=sharing)|
+| [RBONN](https://arxiv.org/abs/2209.01542)    |  66.7     |  87.0     | [Model](https://drive.google.com/drive/folders/1ZHRLyQ4ZkrhCPT2fITKq47ZLwSlMZWFx?usp=sharing)        |[Log](https://drive.google.com/drive/folders/1ZHRLyQ4ZkrhCPT2fITKq47ZLwSlMZWFx?usp=sharing)|
 
 
 To verify the performance of our quantized models with ReActNet-like structure on ImageNet, please do as the following steps:
