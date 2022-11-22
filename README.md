@@ -32,11 +32,13 @@ bash run.sh
 If you find this work useful in your research, please consider to cite:
 
 ```
-@article{xu2022rbonn,
-  title={Recurrent Bilinear Optimization for Binary Neural Networks},
-  author={Xu, Sheng and Li, Yanjing and Wang, Tiancheng and Ma, Teli and Zhang, Baochang and Gao, Peng and Qiao, Yu and Lu, Jinhu and Guo, Guodong},
-  journal={arXiv preprint arXiv:2209.01542},
-  year={2022}
+@inproceedings{xu2022recurrent,
+  title={Recurrent bilinear optimization for binary neural networks},
+  author={Xu, Sheng and Li, Yanjing and Wang, Tiancheng and Ma, Teli and Zhang, Baochang and Gao, Peng and Qiao, Yu and L{\"u}, Jinhu and Guo, Guodong},
+  booktitle={European Conference on Computer Vision},
+  pages={19--35},
+  year={2022},
+  organization={Springer}
 }
 ```
 
