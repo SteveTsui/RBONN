@@ -41,5 +41,3 @@ If you find this work useful in your research, please consider to cite:
   organization={Springer}
 }
 ```
-
-Other models will be open-sourced successively.
